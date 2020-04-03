@@ -1,0 +1,1 @@
+To create MVC application =>> dotnet new mvc -n Question2
